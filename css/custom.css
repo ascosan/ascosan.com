@@ -1,0 +1,28 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+.color-primary {
+  color: #3a86ff !important;
+}
+
+.background-image-holder {
+  background-position: 50% 40% !important;
+}
+
+p.lead {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 34px;
+}
+
+a {
+  color: #FF006E;
+}
+
+a:hover {
+  color: #3A86FF;
+}
+
+.btn-filled {
+  background: #3A86FF;
+  color: #fff;
+}
